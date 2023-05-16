@@ -1,0 +1,12 @@
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\bin\Debug\Aim_Tracker.exe.config
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\bin\Debug\Aim_Tracker.exe
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\bin\Debug\Aim_Tracker.pdb
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.csproj.AssemblyReference.cache
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.Form1.resources
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.Form2.resources
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.Properties.Resources.resources
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.csproj.GenerateResource.cache
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.exe
+C:\Users\tahun\OneDrive\바탕 화면\ㄱㅌㅎ\비주얼프로그래밍\CS01\Aim_Tracker\Aim_Tracker\obj\Debug\Aim_Tracker.pdb
